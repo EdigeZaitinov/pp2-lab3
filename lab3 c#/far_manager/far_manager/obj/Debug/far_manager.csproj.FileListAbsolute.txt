@@ -1,0 +1,7 @@
+D:\pp2\lab3 c#\far_manager\far_manager\bin\Debug\far_manager.exe.config
+D:\pp2\lab3 c#\far_manager\far_manager\bin\Debug\far_manager.exe
+D:\pp2\lab3 c#\far_manager\far_manager\bin\Debug\far_manager.pdb
+D:\pp2\lab3 c#\far_manager\far_manager\obj\Debug\far_manager.csprojAssemblyReference.cache
+D:\pp2\lab3 c#\far_manager\far_manager\obj\Debug\far_manager.csproj.CoreCompileInputs.cache
+D:\pp2\lab3 c#\far_manager\far_manager\obj\Debug\far_manager.exe
+D:\pp2\lab3 c#\far_manager\far_manager\obj\Debug\far_manager.pdb
